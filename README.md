@@ -98,7 +98,6 @@ Which team has the best win percentage at home?
 | `text2sql_server.py` | FastMCP server exposing SQL tools over HTTP |
 | `react_client.py` | Interactive ReAct agent CLI client |
 | `create_ipl_db.py` | Script to generate the `ipl_insights.db` SQLite database |
-| `week_4_mcp_for_text2sql.py` | Colab notebook (banking MCP walkthrough) |
 
 ## Requirements
 
